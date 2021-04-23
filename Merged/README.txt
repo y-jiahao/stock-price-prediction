@@ -7,7 +7,7 @@ For our project, we have chosen Apple as the target company and implemented meth
 
 Contents of files :
 
-"CZ1115_Notebook_FS8_Group9_ver1.ipynb" - ipynb file that contains jupyter notebook codes
+"CZ1115_Notebook_FS8_Group9.ipynb" - ipynb file that contains jupyter notebook codes
 
 "FS8_Team09.pptx" - Powerpoint slide that was used in the video presentation of our project
 
