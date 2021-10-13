@@ -9,6 +9,8 @@ Contents of files :
 
 "CZ1115_Notebook_FS8_Group9.ipynb" - ipynb file that contains jupyter notebook codes
 
+"FS8_Team09.mp4" - Video presentation (with voiceover) of our project
+
 "FS8_Team09.pptx" - Powerpoint slide that was used in the video presentation of our project
 
 
