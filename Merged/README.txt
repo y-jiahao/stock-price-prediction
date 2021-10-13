@@ -14,7 +14,7 @@ Contents of files :
 "FS8_Team09.pptx" - Powerpoint slide that was used in the video presentation of our project
 
 
-Other data files that is used in the ipynb file but excluded due to space limitation : 
+External data files that were used in our project : 
 
 "AAPL BAL SHEET.xls" - Balance sheet of Apple to retrieve Total Assets and Total Liabilities from 2009 to 2015
 
